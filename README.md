@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhon Isaac Medina Mendoza</h1>
-<h3 align="center">i like to enjoy life and i like to learn new things.</h3>
+<h3 align="center">I like to enjoy life, learn and discover new places.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonisaacmedinamendoza08&label=Profile%20views&color=0e75b6&style=flat" alt="jhonisaacmedinamendoza08" /> </p>
 
@@ -9,7 +9,7 @@
 
 - I'm currently working on **Supervisor of civil works**
 
-- 🌱 I’m currently learning **System engineering**
+- 🌱 I am currently learning **Systems Engineering** at UNAD and **Software Development** at CampusLands 💻 .
 
 - How to reach me **jhonisaacmedinamendoza08@outlook.com**
 
