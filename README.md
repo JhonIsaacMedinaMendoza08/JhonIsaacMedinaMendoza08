@@ -1,27 +1,54 @@
-<h1 align="center">Hi 👋, I'm Jhon Isaac Medina Mendoza</h1>
-<h3 align="center">I like to enjoy life, learn and discover new places.</h3>
+<h1 align="center">Hola 👋, soy Jhon Isaac Medina Mendoza</h1>
+<h3 align="center">💻 Apasionado por la tecnología, el desarrollo web y el aprendizaje continuo 🌎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonisaacmedinamendoza08&label=Profile%20views&color=0e75b6&style=flat" alt="jhonisaacmedinamendoza08" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jhonisaacmedinamendoza08" alt="jhonisaacmedinamendoza08" /></a> </p>
+🎯 **Actualmente:**  
+🔸 Supervisor de Obras Civiles  
+🔸 Estudiante de Ingeniería en Sistemas - UNAD  
+🔸Tecnico en Desarrollo de Software - CampusLands  
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- I'm currently working on **Supervisor of civil works**
+🧠 **Conocimientos y habilidades:**
 
-- 🌱 I am currently learning **Systems Engineering** at UNAD and **Software Development** at CampusLands 💻 .
+- 💻 HTML | CSS | JavaScript | Python
+- ⚙️ Control de versiones con Git & GitHub
+- 📊 SQL básico | MongoDB
+- 📌 Metodologías Ágiles (SCRUM)
+- 🎨 Diseño responsivo y buenas prácticas de desarrollo
 
-- How to reach me **jhonisaacmedinamendoza08@outlook.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/isaac medina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isaac medina" height="30" width="40" /></a>
-<a href="https://instagram.com/isaacmedinam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isaacmedinam" height="30" width="40" /></a>
-<a href="https://discord.gg/IsaacMedinaM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="IsaacMedinaM" height="30" width="40" /></a>
+📫 **Contáctame:**
+
+[![Outlook Badge](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:jhonisaacmedinamendoza08@outlook.com)
+[![Instagram Badge](https://img.shields.io/badge/-isaacmedinam-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/isaacmedinam)
+[![Facebook Badge](https://img.shields.io/badge/-IsaacMedina-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/isaac%20medina)
+[![Discord Badge](https://img.shields.io/badge/-IsaacMedinaM-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/IsaacMedinaM)
+
+---
+
+📈 **Estadísticas de GitHub:**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonisaacmedinamendoza08&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonisaacmedinamendoza08&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonisaacmedinamendoza08&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonisaacmedinamendoza08&show_icons=true&locale=en&layout=compact" alt="jhonisaacmedinamendoza08" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jhonisaacmedinamendoza08&show_icons=true&locale=en" alt="jhonisaacmedinamendoza08" /></p>
+🏆 **Trophies**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jhonisaacmedinamendoza08&" alt="jhonisaacmedinamendoza08" /></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jhonisaacmedinamendoza08&theme=onedark&row=1&column=6" alt="Trophies" />
+</p>
+
+---
+
+🌟 **Frase que me define:**  
+> "No hay límites para el que nunca deja de aprender."
+
+---
+
