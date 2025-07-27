@@ -1,6 +1,6 @@
 <!-- Banner animado con descripción -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Jhon+Isaac+Medina+Mendoza;Desarrollador+Junior+Full+Stack;Apasionado+por+la+tecnología+y+el+aprendizaje;Siempre+buscando+crear+cosas+asombrosas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=500&center=true&vCenter=true&width=1000&lines=Hola%2C+soy+Jhon+Isaac+Medina+Mendoza;Desarrollador+Web+Junior+;Apasionado+por+la+tecnología+y+el+aprendizaje;Siempre+buscando+crear+cosas+asombrosas!" alt="Typing SVG" />
 </p>
 
 <h1 align="center">👋 ¡Bienvenido a mi perfil de GitHub!</h1>
